@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+body{
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: hsl(221, 100%, 96%);
+}
+
